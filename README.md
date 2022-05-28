@@ -1,4 +1,4 @@
-# Rust Web Starter
+# Activity TRacker (was: Rust Web Starter)
 Pre-configured starter template for web apps using React ([create-react-app w/ Typescript](https://github.com/Microsoft/TypeScript-React-Starter)) on the frontend and Rust ([Rocket](https://rocket.rs), [Diesel](http://diesel.rs), & [PostgreSQL](https://www.postgresql.org/)) on the backend.
 
 # Quick Start
